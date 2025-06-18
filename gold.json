@@ -1,12 +1,6 @@
 {
   "metal": "XAU",
   "currency": "USD",
-<<<<<<< HEAD
   "price": 1000.0,
   "timestamp": 1750037881
 }
-=======
-  "price": 4.265,
-  "timestamp": 1750216628
-}
->>>>>>> 9e23e6e8e65b41ac1a206d30d300eeb3294c22ac
